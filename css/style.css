@@ -276,6 +276,13 @@ input[type=button]{
 	text-transform: capitalize;
 	font-size: 0.9em;
 }
+.validemail{
+	text-align: left;
+	margin-top: 0.5em;
+	color: darkred;
+	display: none;
+	margin-bottom: 0;
+}
 
                 /*footer*/
 footer{
